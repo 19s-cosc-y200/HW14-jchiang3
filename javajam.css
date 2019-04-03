@@ -8,7 +8,7 @@ Date Last Modified: 4/2/2019
 body { background-color: #FCEBB6; 
 	   color: #221811; 
 	   font-family: Verdana, Arial, Gotham;
-	   background-image: background.gif;
+	   background-image: url("background.gif");
 }
 
 /*for headers*/
